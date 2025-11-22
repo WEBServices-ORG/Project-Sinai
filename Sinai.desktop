@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sinai
+Comment=Sinai OS Ultra - Modern Torah Study Interface
+Exec=/Users/sharon/Terminal/ui/web/dist-electron/mac-arm64/Sinai.app
+Icon=/Users/sharon/Terminal/sinai_icon.png
+Terminal=false
+Type=Application
+Categories=Education;Religion;
