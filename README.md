@@ -1,6 +1,6 @@
 # Project Sinai (v6.4)
 
-![Organization Logo](WEBServices.png)
+![Sinai Icon](sinai_icon.png)
 
 **Website:** http://webservicesdev.com
 
